@@ -1,0 +1,19 @@
+
+----
+~~NOCACHE~~
+**Door43**
+
+  * [[bci:home|Door43 (bci)]]
+  * [[en:license|License]]
+
+**Downloads**
+
+All content for this namespace is available in the [[https://github.com/Door43/d43-bci|d43-bci repository]].  To download it as a zip file, click [[https://github.com/Door43/d43-bci/archive/master.zip|d43-bci.zip]]
+
+**Recent Changes**
+{{changes>ns = bci}}
+
+**Language Information**
+
+[[http://www.ethnologue.com/language/bci|Ethnologue data]]
+
